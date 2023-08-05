@@ -1,0 +1,10 @@
+
+### VS Code ###
+.vscode/
+
+Logs/
+Temp/
+Library/
+Library/SourceAssetDB
+Library/SourceAssetDB/
+.DS_Store
