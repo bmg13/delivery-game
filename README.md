@@ -5,6 +5,8 @@ Based on the Udemy course [Complete C# Unity Game Developer 2D](https://www.udem
 Unity provided lib was used and logic was developed in C#.
 
 
+![GameImage](GameImage.png)
+
 ## Tech Stack
 - dotnet version 7.0.306
 - Unity version 2023.3.6f1
